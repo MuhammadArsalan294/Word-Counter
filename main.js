@@ -14,4 +14,4 @@ const words = answers.sentence.trim().split(" ");
 // Print the array of words to the console
 console.log(words);
 // Print the word count of the sentence to the console
-console.log(`Your sentence word count is ${words.length}`);
+console.log(`Your sentence word count is ${words.length}:`);
